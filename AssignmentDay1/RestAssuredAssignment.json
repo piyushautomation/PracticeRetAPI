@@ -1,0 +1,39 @@
+{
+   "friends":[
+      {
+         "firstname":"Shubham",
+         "lastname":"Thakur",
+         "id":"Shubham",
+         "Age":27
+      },
+      {
+         "firstname":"Ujwal",
+         "lastname":"Bhende",
+         "id":"Ujwal",
+         "age":27
+      },
+      {
+         "firstname":"Sangita",
+         "lastname":"Binda",
+         "id":"Sangita",
+         "age":26
+      }
+   ],
+   "posts":[
+      {
+         "id":1,
+         "title":"json-server",
+         "author":"typicode"
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"Good Work.Keep it Up!!",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
+}
